@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:gravity="left"
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/drone_shape"
+        android:alpha="0.7"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="6dip">
+
+        <TextView
+            android:id="@+id/bt_device"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="qwrv  v" />
+
+        <TableLayout
+            android:id="@+id/bar_table"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bt_device"
+            android:layout_margin="0dp"
+            android:layout_toRightOf="@+id/aux1Btn"
+            android:paddingRight="2dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_th"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:textSize="12dp" />
+
+                <ProgressBar
+                    android:id="@+id/progress_th"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_p"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="10dp"
+                    android:text="2"
+                    android:textSize="12dp" />
+
+                <ProgressBar
+                    android:id="@+id/progress_p"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+
+                <TextView
+                    android:id="@+id/txt_r"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:textSize="12dp" />
+
+                <ProgressBar
+                    android:id="@+id/progress_r"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_y"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:textSize="12dp" />
+
+                <ProgressBar
+                    android:id="@+id/progress_y"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_a1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:textSize="12dp" />
+
+                <ProgressBar
+                    android:id="@+id/progress_a1"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_a2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:textSize="12dp" />
+
+
+                <ProgressBar
+                    android:id="@+id/progress_a2"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+        </TableLayout>
+
+
+        <ToggleButton
+            android:id="@+id/aux1Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/aux1"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/custom_toggle_buttom"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="5dp"
+            android:text="@string/aux1"
+            android:textOff="@string/aux1"
+            android:textOn="@string/aux1" />
+
+        <ToggleButton
+            android:id="@+id/aux2Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/aux1Btn"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/aux1Btn"
+            android:background="@drawable/custom_toggle_buttom"
+            android:layout_marginTop="5dp"
+            android:textColor="@android:color/white"
+            android:text="@string/aux2"
+            android:textOff="@string/aux2"
+            android:textOn="@string/aux2" />
+
+        <ToggleButton
+            android:id="@+id/aux3Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/aux2Btn"
+            android:background="@drawable/custom_toggle_buttom"
+            android:layout_marginTop="5dp"
+            android:textColor="@android:color/white"
+            android:text="@string/aux3"
+            android:textOff="@string/aux3"
+            android:textOn="@string/aux3" />
+
+        <ToggleButton
+            android:id="@+id/aux4Btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/aux3Btn"
+            android:text="@string/aux4"
+            android:textOff="@string/aux4"
+            android:background="@drawable/custom_toggle_buttom"
+            android:layout_marginTop="5dp"
+            android:textColor="@android:color/white"
+            android:textOn="@string/aux4" />
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/DualJoystickView"
+            android:layout_alignParentLeft="true"
+            android:text="@string/connectionStatus"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <view
+            android:id="@+id/DualJoystickView"
+            class="es.age.apps.bridgit.ui.joystick.DualJoystickView"
+            android:layout_width="700px"
+            android:layout_height="350px"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="false"
+            android:visibility="visible" />
+    </RelativeLayout>
+</RelativeLayout><!-- From: file:/Users/adricacho/Downloads/Bridgit/app/src/main/res/layout/dual_joystick_activity.xml -->

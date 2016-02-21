@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#df3a4a</color>
+    <color name="colorPrimaryDark">#6e4a77</color>
+    <color name="background">#806d84</color>
+    <color name="colorAccent">#a54c8e</color>
+    <color name="colorAccent1">#e08141</color>
+    <color name="toggle_pressed">#68c917</color>
+    <color name="toggle_pressed_border">#519c11</color>
+    <color name="toggle_unpressed">#b71c1c</color>
+    <color name="toggle_unpressed_border">#a61919</color>
+    <color name="colorJoystickBackground2">#9E9E9E</color>
+    <color name="colorJoystickBackgroundDark2">#424242</color>
+    <color name="colorJoystickButton2Pressed">#76FF03</color>
+    <color name="colorJoystickButton2DarkPressed">#64DD17</color>
+    <color name="colorJoystickButton2">#D50000</color>
+    <color name="colorJoystickButton2Dark">#B71C1C</color>
+</resources>

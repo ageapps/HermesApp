@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="5dip" />
+            <gradient
+                android:angle="270"
+                android:centerColor="#b3b3b3"
+                android:centerY="0.5"
+                android:endColor="#b3b3b3"
+                android:startColor="#b3b3b3" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="5dip" />
+                <gradient
+                    android:angle="0"
+                    android:endColor="@color/colorPrimary"
+                    android:centerColor="@color/colorAccent1"
+                    android:startColor="@color/toggle_pressed" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list><!-- From: file:/Users/adricacho/Downloads/Bridgit/app/src/main/res/drawable/custom_progress_bar.xml -->
