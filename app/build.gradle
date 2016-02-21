@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "es.age.apps.bridgit.core.multiwiiremote"
+        applicationId "es.age.apps.bridgit.core.bridgit"
         minSdkVersion 15
         targetSdkVersion 10
     }
