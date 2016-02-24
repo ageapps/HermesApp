@@ -2228,8 +2228,8 @@ containing a value of this type.
         public static final int notification_template_icon_bg=0x7f020053;
     }
     public static final class id {
-        public static final int DualJoystickView=0x7f0e008e;
-        public static final int action0=0x7f0e008f;
+        public static final int DualJoystickView=0x7f0e008f;
+        public static final int action0=0x7f0e0090;
         public static final int action_bar=0x7f0e005a;
         public static final int action_bar_activity_content=0x7f0e0000;
         public static final int action_bar_container=0x7f0e0059;
@@ -2238,7 +2238,7 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0e003b;
         public static final int action_bar_title=0x7f0e003a;
         public static final int action_context_bar=0x7f0e005b;
-        public static final int action_divider=0x7f0e0093;
+        public static final int action_divider=0x7f0e0094;
         public static final int action_menu_divider=0x7f0e0002;
         public static final int action_menu_presenter=0x7f0e0003;
         public static final int action_mode_bar=0x7f0e0057;
@@ -2247,10 +2247,10 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f0e003d;
         public static final int alertTitle=0x7f0e0049;
         public static final int always=0x7f0e0032;
-        public static final int arrow_bottom=0x7f0e009f;
-        public static final int arrow_left=0x7f0e00a0;
-        public static final int arrow_right=0x7f0e009e;
-        public static final int arrow_top=0x7f0e009c;
+        public static final int arrow_bottom=0x7f0e00a0;
+        public static final int arrow_left=0x7f0e00a1;
+        public static final int arrow_right=0x7f0e009f;
+        public static final int arrow_top=0x7f0e009d;
         public static final int aux1Btn=0x7f0e007d;
         public static final int aux2Btn=0x7f0e008a;
         public static final int aux3Btn=0x7f0e008b;
@@ -2265,17 +2265,17 @@ containing a value of this type.
         public static final int button_joystick=0x7f0e006a;
         public static final int button_scan=0x7f0e007a;
         public static final int button_settings=0x7f0e006c;
-        public static final int buttons_layout=0x7f0e00a1;
-        public static final int cancel_action=0x7f0e0090;
+        public static final int buttons_layout=0x7f0e00a2;
+        public static final int cancel_action=0x7f0e0091;
         public static final int center=0x7f0e001d;
         public static final int center_horizontal=0x7f0e001e;
         public static final int center_vertical=0x7f0e001f;
         public static final int checkbox=0x7f0e0052;
-        public static final int chronometer=0x7f0e0096;
+        public static final int chronometer=0x7f0e0097;
         public static final int clip_horizontal=0x7f0e002b;
         public static final int clip_vertical=0x7f0e002c;
         public static final int collapseActionView=0x7f0e0033;
-        public static final int connect=0x7f0e00a2;
+        public static final int connect=0x7f0e00a3;
         public static final int contentPanel=0x7f0e004a;
         public static final int custom=0x7f0e0050;
         public static final int customPanel=0x7f0e004f;
@@ -2288,7 +2288,7 @@ containing a value of this type.
         public static final int disableHome=0x7f0e000e;
         public static final int edit_query=0x7f0e005c;
         public static final int end=0x7f0e0020;
-        public static final int end_padder=0x7f0e009b;
+        public static final int end_padder=0x7f0e009c;
         public static final int enterAlways=0x7f0e0015;
         public static final int enterAlwaysCollapsed=0x7f0e0016;
         public static final int exitUntilCollapsed=0x7f0e0017;
@@ -2303,16 +2303,16 @@ containing a value of this type.
         public static final int icon=0x7f0e0042;
         public static final int ifRoom=0x7f0e0034;
         public static final int image=0x7f0e003f;
-        public static final int info=0x7f0e009a;
+        public static final int info=0x7f0e009b;
         public static final int item_touch_helper_previous_elevation=0x7f0e0005;
-        public static final int joystick=0x7f0e009d;
+        public static final int joystick=0x7f0e009e;
         public static final int left=0x7f0e0022;
-        public static final int line1=0x7f0e0094;
-        public static final int line3=0x7f0e0098;
+        public static final int line1=0x7f0e0095;
+        public static final int line3=0x7f0e0099;
         public static final int listMode=0x7f0e000b;
         public static final int list_item=0x7f0e0041;
-        public static final int media_actions=0x7f0e0092;
-        public static final int menu_settings=0x7f0e00a3;
+        public static final int media_actions=0x7f0e0093;
+        public static final int menu_settings=0x7f0e00a4;
         public static final int middle=0x7f0e0031;
         public static final int mini=0x7f0e002f;
         public static final int multiply=0x7f0e0026;
@@ -2367,13 +2367,14 @@ containing a value of this type.
         public static final int src_over=0x7f0e002a;
         public static final int start=0x7f0e0024;
         public static final int status=0x7f0e008d;
-        public static final int status_bar_latest_event_content=0x7f0e0091;
+        public static final int status_bar_latest_event_content=0x7f0e0092;
+        public static final int stics=0x7f0e008e;
         public static final int submit_area=0x7f0e0065;
         public static final int tabMode=0x7f0e000d;
-        public static final int text=0x7f0e0099;
-        public static final int text2=0x7f0e0097;
+        public static final int text=0x7f0e009a;
+        public static final int text2=0x7f0e0098;
         public static final int textSpacerNoButtons=0x7f0e004d;
-        public static final int time=0x7f0e0095;
+        public static final int time=0x7f0e0096;
         public static final int title=0x7f0e0043;
         public static final int title_new_devices=0x7f0e0078;
         public static final int title_paired_devices=0x7f0e0076;
@@ -2858,33 +2859,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background es.age.apps.bridgit.core.multiwiiremote:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit es.age.apps.bridgit.core.multiwiiremote:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked es.age.apps.bridgit.core.multiwiiremote:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd es.age.apps.bridgit.core.multiwiiremote:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft es.age.apps.bridgit.core.multiwiiremote:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight es.age.apps.bridgit.core.multiwiiremote:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart es.age.apps.bridgit.core.multiwiiremote:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout es.age.apps.bridgit.core.multiwiiremote:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions es.age.apps.bridgit.core.multiwiiremote:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider es.age.apps.bridgit.core.multiwiiremote:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation es.age.apps.bridgit.core.multiwiiremote:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height es.age.apps.bridgit.core.multiwiiremote:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll es.age.apps.bridgit.core.multiwiiremote:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator es.age.apps.bridgit.core.multiwiiremote:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout es.age.apps.bridgit.core.multiwiiremote:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon es.age.apps.bridgit.core.multiwiiremote:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle es.age.apps.bridgit.core.multiwiiremote:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding es.age.apps.bridgit.core.multiwiiremote:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo es.age.apps.bridgit.core.multiwiiremote:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode es.age.apps.bridgit.core.multiwiiremote:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme es.age.apps.bridgit.core.multiwiiremote:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding es.age.apps.bridgit.core.multiwiiremote:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle es.age.apps.bridgit.core.multiwiiremote:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle es.age.apps.bridgit.core.multiwiiremote:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle es.age.apps.bridgit.core.multiwiiremote:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title es.age.apps.bridgit.core.multiwiiremote:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle es.age.apps.bridgit.core.multiwiiremote:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background es.age.apps.bridgit:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit es.age.apps.bridgit:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked es.age.apps.bridgit:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd es.age.apps.bridgit:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft es.age.apps.bridgit:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight es.age.apps.bridgit:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart es.age.apps.bridgit:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout es.age.apps.bridgit:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions es.age.apps.bridgit:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider es.age.apps.bridgit:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation es.age.apps.bridgit:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height es.age.apps.bridgit:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll es.age.apps.bridgit:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator es.age.apps.bridgit:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout es.age.apps.bridgit:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon es.age.apps.bridgit:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle es.age.apps.bridgit:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding es.age.apps.bridgit:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo es.age.apps.bridgit:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode es.age.apps.bridgit:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme es.age.apps.bridgit:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding es.age.apps.bridgit:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle es.age.apps.bridgit:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle es.age.apps.bridgit:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle es.age.apps.bridgit:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title es.age.apps.bridgit:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle es.age.apps.bridgit:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2924,17 +2925,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f0100be
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#background}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:background
+          @attr name es.age.apps.bridgit:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2942,11 +2943,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundSplit
+          @attr name es.age.apps.bridgit:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2954,11 +2955,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundStacked
+          @attr name es.age.apps.bridgit:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2970,11 +2971,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetEnd
+          @attr name es.age.apps.bridgit:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2986,11 +2987,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetLeft
+          @attr name es.age.apps.bridgit:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3002,11 +3003,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetRight
+          @attr name es.age.apps.bridgit:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3018,21 +3019,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetStart
+          @attr name es.age.apps.bridgit:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:customNavigationLayout
+          @attr name es.age.apps.bridgit:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3050,21 +3051,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:displayOptions
+          @attr name es.age.apps.bridgit:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#divider}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:divider
+          @attr name es.age.apps.bridgit:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#elevation}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3076,11 +3077,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:elevation
+          @attr name es.age.apps.bridgit:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#height}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3092,11 +3093,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:height
+          @attr name es.age.apps.bridgit:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3106,51 +3107,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:hideOnContentScroll
+          @attr name es.age.apps.bridgit:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:homeAsUpIndicator
+          @attr name es.age.apps.bridgit:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:homeLayout
+          @attr name es.age.apps.bridgit:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#icon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:icon
+          @attr name es.age.apps.bridgit:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:indeterminateProgressStyle
+          @attr name es.age.apps.bridgit:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3162,21 +3163,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:itemPadding
+          @attr name es.age.apps.bridgit:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#logo}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:logo
+          @attr name es.age.apps.bridgit:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3190,21 +3191,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:navigationMode
+          @attr name es.age.apps.bridgit:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:popupTheme
+          @attr name es.age.apps.bridgit:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3216,21 +3217,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:progressBarPadding
+          @attr name es.age.apps.bridgit:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:progressBarStyle
+          @attr name es.age.apps.bridgit:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3240,21 +3241,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:subtitle
+          @attr name es.age.apps.bridgit:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:subtitleTextStyle
+          @attr name es.age.apps.bridgit:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#title}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3264,17 +3265,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:title
+          @attr name es.age.apps.bridgit:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleTextStyle
+          @attr name es.age.apps.bridgit:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3326,12 +3327,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background es.age.apps.bridgit.core.multiwiiremote:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit es.age.apps.bridgit.core.multiwiiremote:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout es.age.apps.bridgit.core.multiwiiremote:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height es.age.apps.bridgit.core.multiwiiremote:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle es.age.apps.bridgit.core.multiwiiremote:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle es.age.apps.bridgit.core.multiwiiremote:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background es.age.apps.bridgit:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit es.age.apps.bridgit:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout es.age.apps.bridgit:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height es.age.apps.bridgit:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle es.age.apps.bridgit:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle es.age.apps.bridgit:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3345,17 +3346,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#background}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:background
+          @attr name es.age.apps.bridgit:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3363,21 +3364,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundSplit
+          @attr name es.age.apps.bridgit:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:closeItemLayout
+          @attr name es.age.apps.bridgit:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#height}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3389,27 +3390,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:height
+          @attr name es.age.apps.bridgit:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:subtitleTextStyle
+          @attr name es.age.apps.bridgit:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleTextStyle
+          @attr name es.age.apps.bridgit:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3418,8 +3419,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable es.age.apps.bridgit.core.multiwiiremote:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount es.age.apps.bridgit.core.multiwiiremote:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable es.age.apps.bridgit:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount es.age.apps.bridgit:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3428,17 +3429,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandActivityOverflowButtonDrawable
+          @attr name es.age.apps.bridgit:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3448,7 +3449,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:initialActivityCount
+          @attr name es.age.apps.bridgit:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3458,11 +3459,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout es.age.apps.bridgit.core.multiwiiremote:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout es.age.apps.bridgit.core.multiwiiremote:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout es.age.apps.bridgit.core.multiwiiremote:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout es.age.apps.bridgit.core.multiwiiremote:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout es.age.apps.bridgit.core.multiwiiremote:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout es.age.apps.bridgit:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout es.age.apps.bridgit:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout es.age.apps.bridgit:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout es.age.apps.bridgit:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout es.age.apps.bridgit:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3482,53 +3483,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonPanelSideLayout
+          @attr name es.age.apps.bridgit:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listItemLayout
+          @attr name es.age.apps.bridgit:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listLayout
+          @attr name es.age.apps.bridgit:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:multiChoiceItemLayout
+          @attr name es.age.apps.bridgit:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:singleChoiceItemLayout
+          @attr name es.age.apps.bridgit:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -3538,8 +3539,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation es.age.apps.bridgit.core.multiwiiremote:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded es.age.apps.bridgit.core.multiwiiremote:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation es.age.apps.bridgit:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded es.age.apps.bridgit:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -3555,7 +3556,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#elevation}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -3567,11 +3568,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:elevation
+          @attr name es.age.apps.bridgit:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expanded}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -3581,7 +3582,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expanded
+          @attr name es.age.apps.bridgit:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayout_LayoutParams.
@@ -3590,8 +3591,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags es.age.apps.bridgit.core.multiwiiremote:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator es.age.apps.bridgit.core.multiwiiremote:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags es.age.apps.bridgit:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator es.age.apps.bridgit:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_LayoutParams_layout_scrollFlags
            @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
@@ -3600,7 +3601,7 @@ containing a value of this type.
             0x7f010025, 0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
@@ -3616,17 +3617,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_scrollFlags
+          @attr name es.age.apps.bridgit:layout_scrollFlags
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_scrollInterpolator
+          @attr name es.age.apps.bridgit:layout_scrollInterpolator
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3636,7 +3637,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps es.age.apps.bridgit.core.multiwiiremote:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps es.age.apps.bridgit:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3651,14 +3652,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAllCaps
+          @attr name es.age.apps.bridgit:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -3667,7 +3668,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking es.age.apps.bridgit.core.multiwiiremote:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking es.age.apps.bridgit:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -3675,7 +3676,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -3685,7 +3686,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:allowStacking
+          @attr name es.age.apps.bridgit:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
@@ -3694,8 +3695,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode es.age.apps.bridgit.core.multiwiiremote:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier es.age.apps.bridgit.core.multiwiiremote:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode es.age.apps.bridgit:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier es.age.apps.bridgit:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
@@ -3704,7 +3705,7 @@ containing a value of this type.
             0x7f010029, 0x7f01002a
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -3718,11 +3719,11 @@ containing a value of this type.
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_collapseMode
+          @attr name es.age.apps.bridgit:layout_collapseMode
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -3732,7 +3733,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_collapseParallaxMultiplier
+          @attr name es.age.apps.bridgit:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -3741,20 +3742,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity es.age.apps.bridgit.core.multiwiiremote:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance es.age.apps.bridgit.core.multiwiiremote:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim es.age.apps.bridgit.core.multiwiiremote:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity es.age.apps.bridgit.core.multiwiiremote:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin es.age.apps.bridgit.core.multiwiiremote:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance es.age.apps.bridgit.core.multiwiiremote:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim es.age.apps.bridgit.core.multiwiiremote:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title es.age.apps.bridgit.core.multiwiiremote:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled es.age.apps.bridgit.core.multiwiiremote:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId es.age.apps.bridgit.core.multiwiiremote:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity es.age.apps.bridgit:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance es.age.apps.bridgit:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim es.age.apps.bridgit:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity es.age.apps.bridgit:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin es.age.apps.bridgit:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom es.age.apps.bridgit:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd es.age.apps.bridgit:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart es.age.apps.bridgit:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop es.age.apps.bridgit:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance es.age.apps.bridgit:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim es.age.apps.bridgit:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title es.age.apps.bridgit:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled es.age.apps.bridgit:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId es.age.apps.bridgit:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -3778,7 +3779,7 @@ containing a value of this type.
             0x7f010036, 0x7f010037
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3799,21 +3800,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:collapsedTitleGravity
+          @attr name es.age.apps.bridgit:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 11;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:collapsedTitleTextAppearance
+          @attr name es.age.apps.bridgit:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3824,11 +3825,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentScrim
+          @attr name es.age.apps.bridgit:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3849,11 +3850,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleGravity
+          @attr name es.age.apps.bridgit:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3865,11 +3866,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleMargin
+          @attr name es.age.apps.bridgit:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3881,11 +3882,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginBottom
+          @attr name es.age.apps.bridgit:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3897,11 +3898,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginEnd
+          @attr name es.age.apps.bridgit:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3913,11 +3914,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginStart
+          @attr name es.age.apps.bridgit:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3929,21 +3930,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleMarginTop
+          @attr name es.age.apps.bridgit:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:expandedTitleTextAppearance
+          @attr name es.age.apps.bridgit:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3954,11 +3955,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:statusBarScrim
+          @attr name es.age.apps.bridgit:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#title}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3968,11 +3969,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:title
+          @attr name es.age.apps.bridgit:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -3982,17 +3983,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleEnabled
+          @attr name es.age.apps.bridgit:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 13;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:toolbarId
+          @attr name es.age.apps.bridgit:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CompoundButton.
@@ -4002,8 +4003,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint es.age.apps.bridgit.core.multiwiiremote:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode es.age.apps.bridgit.core.multiwiiremote:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint es.age.apps.bridgit:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode es.age.apps.bridgit:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -4019,7 +4020,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -4030,11 +4031,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonTint
+          @attr name es.age.apps.bridgit:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -4050,7 +4051,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonTintMode
+          @attr name es.age.apps.bridgit:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -4059,8 +4060,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines es.age.apps.bridgit.core.multiwiiremote:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground es.age.apps.bridgit.core.multiwiiremote:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines es.age.apps.bridgit:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground es.age.apps.bridgit:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -4069,23 +4070,23 @@ containing a value of this type.
             0x7f01003a, 0x7f01003b
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#keylines}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:keylines
+          @attr name es.age.apps.bridgit:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:statusBarBackground
+          @attr name es.age.apps.bridgit:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
@@ -4095,10 +4096,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor es.age.apps.bridgit.core.multiwiiremote:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity es.age.apps.bridgit.core.multiwiiremote:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior es.age.apps.bridgit.core.multiwiiremote:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline es.age.apps.bridgit.core.multiwiiremote:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor es.age.apps.bridgit:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity es.age.apps.bridgit:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior es.age.apps.bridgit:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline es.age.apps.bridgit:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_LayoutParams_android_layout_gravity
            @see #CoordinatorLayout_LayoutParams_layout_anchor
@@ -4117,17 +4118,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_anchor
+          @attr name es.age.apps.bridgit:layout_anchor
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4152,11 +4153,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_anchorGravity
+          @attr name es.age.apps.bridgit:layout_anchorGravity
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4166,11 +4167,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_behavior
+          @attr name es.age.apps.bridgit:layout_behavior
         */
         public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4180,7 +4181,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout_keyline
+          @attr name es.age.apps.bridgit:layout_keyline
         */
         public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -4189,14 +4190,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength es.age.apps.bridgit.core.multiwiiremote:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength es.age.apps.bridgit.core.multiwiiremote:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength es.age.apps.bridgit.core.multiwiiremote:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color es.age.apps.bridgit.core.multiwiiremote:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize es.age.apps.bridgit.core.multiwiiremote:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars es.age.apps.bridgit.core.multiwiiremote:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars es.age.apps.bridgit.core.multiwiiremote:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness es.age.apps.bridgit.core.multiwiiremote:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength es.age.apps.bridgit:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength es.age.apps.bridgit:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength es.age.apps.bridgit:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color es.age.apps.bridgit:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize es.age.apps.bridgit:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars es.age.apps.bridgit:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars es.age.apps.bridgit:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness es.age.apps.bridgit:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -4212,7 +4213,7 @@ containing a value of this type.
             0x7f010044, 0x7f010045, 0x7f010046, 0x7f010047
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4224,11 +4225,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:arrowHeadLength
+          @attr name es.age.apps.bridgit:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4240,11 +4241,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:arrowShaftLength
+          @attr name es.age.apps.bridgit:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#barLength}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4256,11 +4257,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:barLength
+          @attr name es.age.apps.bridgit:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#color}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4271,11 +4272,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:color
+          @attr name es.age.apps.bridgit:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4287,11 +4288,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:drawableSize
+          @attr name es.age.apps.bridgit:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4303,11 +4304,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:gapBetweenBars
+          @attr name es.age.apps.bridgit:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4317,11 +4318,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:spinBars
+          @attr name es.age.apps.bridgit:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#thickness}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4333,7 +4334,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:thickness
+          @attr name es.age.apps.bridgit:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -4342,13 +4343,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint es.age.apps.bridgit.core.multiwiiremote:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode es.age.apps.bridgit.core.multiwiiremote:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth es.age.apps.bridgit.core.multiwiiremote:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation es.age.apps.bridgit.core.multiwiiremote:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize es.age.apps.bridgit.core.multiwiiremote:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ es.age.apps.bridgit.core.multiwiiremote:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor es.age.apps.bridgit.core.multiwiiremote:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint es.age.apps.bridgit:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode es.age.apps.bridgit:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth es.age.apps.bridgit:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation es.age.apps.bridgit:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize es.age.apps.bridgit:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ es.age.apps.bridgit:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor es.age.apps.bridgit:rippleColor}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -4363,7 +4364,7 @@ containing a value of this type.
             0x7f01004b, 0x7f01010e, 0x7f01010f
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4374,11 +4375,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundTint
+          @attr name es.age.apps.bridgit:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4394,11 +4395,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundTintMode
+          @attr name es.age.apps.bridgit:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4410,11 +4411,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:borderWidth
+          @attr name es.age.apps.bridgit:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#elevation}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4426,11 +4427,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:elevation
+          @attr name es.age.apps.bridgit:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4443,11 +4444,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:fabSize
+          @attr name es.age.apps.bridgit:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4459,11 +4460,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:pressedTranslationZ
+          @attr name es.age.apps.bridgit:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4474,7 +4475,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:rippleColor
+          @attr name es.age.apps.bridgit:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -4485,7 +4486,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding es.age.apps.bridgit.core.multiwiiremote:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding es.age.apps.bridgit:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -4507,7 +4508,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -4517,7 +4518,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:foregroundInsidePadding
+          @attr name es.age.apps.bridgit:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -4531,10 +4532,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider es.age.apps.bridgit.core.multiwiiremote:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding es.age.apps.bridgit.core.multiwiiremote:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild es.age.apps.bridgit.core.multiwiiremote:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers es.age.apps.bridgit.core.multiwiiremote:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider es.age.apps.bridgit:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding es.age.apps.bridgit:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild es.age.apps.bridgit:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers es.age.apps.bridgit:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -4582,17 +4583,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#divider}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:divider
+          @attr name es.age.apps.bridgit:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -4604,11 +4605,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dividerPadding
+          @attr name es.age.apps.bridgit:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -4618,11 +4619,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:measureWithLargestChild
+          @attr name es.age.apps.bridgit:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -4637,7 +4638,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:showDividers
+          @attr name es.age.apps.bridgit:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -4776,9 +4777,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout es.age.apps.bridgit.core.multiwiiremote:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass es.age.apps.bridgit.core.multiwiiremote:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass es.age.apps.bridgit.core.multiwiiremote:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout es.age.apps.bridgit:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass es.age.apps.bridgit:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass es.age.apps.bridgit:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -4792,7 +4793,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction es.age.apps.bridgit.core.multiwiiremote:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction es.age.apps.bridgit:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -4820,17 +4821,17 @@ containing a value of this type.
             0x7f010053
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionLayout
+          @attr name es.age.apps.bridgit:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4840,11 +4841,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionProviderClass
+          @attr name es.age.apps.bridgit:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4854,7 +4855,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionViewClass
+          @attr name es.age.apps.bridgit:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -4936,7 +4937,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4952,7 +4953,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:showAsAction
+          @attr name es.age.apps.bridgit:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4968,7 +4969,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing es.age.apps.bridgit.core.multiwiiremote:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing es.age.apps.bridgit:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -5026,7 +5027,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -5036,7 +5037,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:preserveIconSpacing
+          @attr name es.age.apps.bridgit:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a NavigationView.
@@ -5048,13 +5049,13 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation es.age.apps.bridgit.core.multiwiiremote:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout es.age.apps.bridgit.core.multiwiiremote:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground es.age.apps.bridgit.core.multiwiiremote:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint es.age.apps.bridgit.core.multiwiiremote:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance es.age.apps.bridgit.core.multiwiiremote:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor es.age.apps.bridgit.core.multiwiiremote:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu es.age.apps.bridgit.core.multiwiiremote:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation es.age.apps.bridgit:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout es.age.apps.bridgit:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground es.age.apps.bridgit:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint es.age.apps.bridgit:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance es.age.apps.bridgit:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor es.age.apps.bridgit:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu es.age.apps.bridgit:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -5091,7 +5092,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#elevation}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5103,31 +5104,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:elevation
+          @attr name es.age.apps.bridgit:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:headerLayout
+          @attr name es.age.apps.bridgit:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:itemBackground
+          @attr name es.age.apps.bridgit:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5138,21 +5139,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:itemIconTint
+          @attr name es.age.apps.bridgit:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:itemTextAppearance
+          @attr name es.age.apps.bridgit:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5163,17 +5164,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:itemTextColor
+          @attr name es.age.apps.bridgit:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#menu}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:menu
+          @attr name es.age.apps.bridgit:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -5183,7 +5184,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor es.age.apps.bridgit.core.multiwiiremote:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor es.age.apps.bridgit:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -5198,7 +5199,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -5208,7 +5209,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:overlapAnchor
+          @attr name es.age.apps.bridgit:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -5217,7 +5218,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor es.age.apps.bridgit.core.multiwiiremote:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor es.age.apps.bridgit:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -5225,7 +5226,7 @@ containing a value of this type.
             0x7f01005c
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -5235,7 +5236,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:state_above_anchor
+          @attr name es.age.apps.bridgit:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -5245,10 +5246,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager es.age.apps.bridgit.core.multiwiiremote:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout es.age.apps.bridgit.core.multiwiiremote:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount es.age.apps.bridgit.core.multiwiiremote:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd es.age.apps.bridgit.core.multiwiiremote:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager es.age.apps.bridgit:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout es.age.apps.bridgit:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount es.age.apps.bridgit:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd es.age.apps.bridgit:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -5267,7 +5268,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5277,11 +5278,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layoutManager
+          @attr name es.age.apps.bridgit:layoutManager
         */
         public static final int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5291,11 +5292,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:reverseLayout
+          @attr name es.age.apps.bridgit:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5305,11 +5306,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:spanCount
+          @attr name es.age.apps.bridgit:spanCount
         */
         public static final int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5319,7 +5320,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:stackFromEnd
+          @attr name es.age.apps.bridgit:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -5328,7 +5329,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground es.age.apps.bridgit.core.multiwiiremote:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground es.age.apps.bridgit:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -5336,7 +5337,7 @@ containing a value of this type.
             0x7f010061
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -5344,7 +5345,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:insetForeground
+          @attr name es.age.apps.bridgit:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Params.
@@ -5353,7 +5354,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop es.age.apps.bridgit.core.multiwiiremote:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop es.age.apps.bridgit:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Params_behavior_overlapTop
          */
@@ -5361,7 +5362,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010062
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
 
 
@@ -5373,7 +5374,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:behavior_overlapTop
+          @attr name es.age.apps.bridgit:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -5386,19 +5387,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon es.age.apps.bridgit.core.multiwiiremote:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon es.age.apps.bridgit.core.multiwiiremote:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint es.age.apps.bridgit.core.multiwiiremote:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon es.age.apps.bridgit.core.multiwiiremote:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault es.age.apps.bridgit.core.multiwiiremote:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout es.age.apps.bridgit.core.multiwiiremote:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground es.age.apps.bridgit.core.multiwiiremote:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint es.age.apps.bridgit.core.multiwiiremote:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon es.age.apps.bridgit.core.multiwiiremote:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon es.age.apps.bridgit.core.multiwiiremote:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground es.age.apps.bridgit.core.multiwiiremote:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout es.age.apps.bridgit.core.multiwiiremote:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon es.age.apps.bridgit.core.multiwiiremote:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon es.age.apps.bridgit:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon es.age.apps.bridgit:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint es.age.apps.bridgit:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon es.age.apps.bridgit:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault es.age.apps.bridgit:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout es.age.apps.bridgit:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground es.age.apps.bridgit:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint es.age.apps.bridgit:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon es.age.apps.bridgit:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon es.age.apps.bridgit:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground es.age.apps.bridgit:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout es.age.apps.bridgit:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon es.age.apps.bridgit:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -5450,27 +5451,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:closeIcon
+          @attr name es.age.apps.bridgit:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:commitIcon
+          @attr name es.age.apps.bridgit:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5480,21 +5481,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:defaultQueryHint
+          @attr name es.age.apps.bridgit:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:goIcon
+          @attr name es.age.apps.bridgit:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5504,31 +5505,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:iconifiedByDefault
+          @attr name es.age.apps.bridgit:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#layout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:layout
+          @attr name es.age.apps.bridgit:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:queryBackground
+          @attr name es.age.apps.bridgit:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5538,57 +5539,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:queryHint
+          @attr name es.age.apps.bridgit:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:searchHintIcon
+          @attr name es.age.apps.bridgit:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:searchIcon
+          @attr name es.age.apps.bridgit:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:submitBackground
+          @attr name es.age.apps.bridgit:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:suggestionRowLayout
+          @attr name es.age.apps.bridgit:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:voiceIcon
+          @attr name es.age.apps.bridgit:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -5598,8 +5599,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation es.age.apps.bridgit.core.multiwiiremote:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth es.age.apps.bridgit.core.multiwiiremote:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation es.age.apps.bridgit:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth es.age.apps.bridgit:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -5615,7 +5616,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#elevation}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -5627,11 +5628,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:elevation
+          @attr name es.age.apps.bridgit:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -5643,7 +5644,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:maxActionInlineWidth
+          @attr name es.age.apps.bridgit:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -5655,7 +5656,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme es.age.apps.bridgit.core.multiwiiremote:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme es.age.apps.bridgit:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -5684,13 +5685,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:popupTheme
+          @attr name es.age.apps.bridgit:popupTheme
         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -5702,13 +5703,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText es.age.apps.bridgit.core.multiwiiremote:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack es.age.apps.bridgit.core.multiwiiremote:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth es.age.apps.bridgit.core.multiwiiremote:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding es.age.apps.bridgit.core.multiwiiremote:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance es.age.apps.bridgit.core.multiwiiremote:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding es.age.apps.bridgit.core.multiwiiremote:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track es.age.apps.bridgit.core.multiwiiremote:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText es.age.apps.bridgit:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack es.age.apps.bridgit:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth es.age.apps.bridgit:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding es.age.apps.bridgit:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance es.age.apps.bridgit:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding es.age.apps.bridgit:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track es.age.apps.bridgit:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -5745,7 +5746,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#showText}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5755,11 +5756,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:showText
+          @attr name es.age.apps.bridgit:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5769,11 +5770,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:splitTrack
+          @attr name es.age.apps.bridgit:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5785,11 +5786,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:switchMinWidth
+          @attr name es.age.apps.bridgit:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5801,21 +5802,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:switchPadding
+          @attr name es.age.apps.bridgit:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:switchTextAppearance
+          @attr name es.age.apps.bridgit:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -5827,17 +5828,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:thumbTextPadding
+          @attr name es.age.apps.bridgit:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#track}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:track
+          @attr name es.age.apps.bridgit:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TabLayout.
@@ -5846,22 +5847,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground es.age.apps.bridgit.core.multiwiiremote:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart es.age.apps.bridgit.core.multiwiiremote:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity es.age.apps.bridgit.core.multiwiiremote:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor es.age.apps.bridgit.core.multiwiiremote:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight es.age.apps.bridgit.core.multiwiiremote:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth es.age.apps.bridgit.core.multiwiiremote:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth es.age.apps.bridgit.core.multiwiiremote:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode es.age.apps.bridgit.core.multiwiiremote:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding es.age.apps.bridgit.core.multiwiiremote:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom es.age.apps.bridgit.core.multiwiiremote:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd es.age.apps.bridgit.core.multiwiiremote:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart es.age.apps.bridgit.core.multiwiiremote:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop es.age.apps.bridgit.core.multiwiiremote:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor es.age.apps.bridgit.core.multiwiiremote:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance es.age.apps.bridgit.core.multiwiiremote:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor es.age.apps.bridgit.core.multiwiiremote:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground es.age.apps.bridgit:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart es.age.apps.bridgit:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity es.age.apps.bridgit:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor es.age.apps.bridgit:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight es.age.apps.bridgit:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth es.age.apps.bridgit:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth es.age.apps.bridgit:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode es.age.apps.bridgit:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding es.age.apps.bridgit:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom es.age.apps.bridgit:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd es.age.apps.bridgit:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart es.age.apps.bridgit:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop es.age.apps.bridgit:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor es.age.apps.bridgit:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance es.age.apps.bridgit:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor es.age.apps.bridgit:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -5887,17 +5888,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabBackground
+          @attr name es.age.apps.bridgit:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -5909,11 +5910,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabContentStart
+          @attr name es.age.apps.bridgit:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -5926,11 +5927,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabGravity
+          @attr name es.age.apps.bridgit:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -5941,11 +5942,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabIndicatorColor
+          @attr name es.age.apps.bridgit:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -5957,11 +5958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabIndicatorHeight
+          @attr name es.age.apps.bridgit:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -5973,11 +5974,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabMaxWidth
+          @attr name es.age.apps.bridgit:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -5989,11 +5990,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabMinWidth
+          @attr name es.age.apps.bridgit:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6006,11 +6007,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabMode
+          @attr name es.age.apps.bridgit:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6022,11 +6023,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabPadding
+          @attr name es.age.apps.bridgit:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6038,11 +6039,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabPaddingBottom
+          @attr name es.age.apps.bridgit:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6054,11 +6055,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabPaddingEnd
+          @attr name es.age.apps.bridgit:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6070,11 +6071,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabPaddingStart
+          @attr name es.age.apps.bridgit:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6086,11 +6087,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabPaddingTop
+          @attr name es.age.apps.bridgit:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6101,21 +6102,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabSelectedTextColor
+          @attr name es.age.apps.bridgit:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabTextAppearance
+          @attr name es.age.apps.bridgit:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6126,7 +6127,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:tabTextColor
+          @attr name es.age.apps.bridgit:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -6143,7 +6144,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps es.age.apps.bridgit.core.multiwiiremote:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps es.age.apps.bridgit:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -6209,14 +6210,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAllCaps
+          @attr name es.age.apps.bridgit:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextInputLayout.
@@ -6227,14 +6228,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled es.age.apps.bridgit.core.multiwiiremote:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength es.age.apps.bridgit.core.multiwiiremote:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance es.age.apps.bridgit.core.multiwiiremote:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance es.age.apps.bridgit.core.multiwiiremote:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled es.age.apps.bridgit.core.multiwiiremote:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance es.age.apps.bridgit.core.multiwiiremote:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled es.age.apps.bridgit.core.multiwiiremote:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance es.age.apps.bridgit.core.multiwiiremote:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled es.age.apps.bridgit:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength es.age.apps.bridgit:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance es.age.apps.bridgit:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance es.age.apps.bridgit:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled es.age.apps.bridgit:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance es.age.apps.bridgit:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled es.age.apps.bridgit:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance es.age.apps.bridgit:hintTextAppearance}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -6265,7 +6266,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -6275,11 +6276,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:counterEnabled
+          @attr name es.age.apps.bridgit:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -6289,31 +6290,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:counterMaxLength
+          @attr name es.age.apps.bridgit:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:counterOverflowTextAppearance
+          @attr name es.age.apps.bridgit:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:counterTextAppearance
+          @attr name es.age.apps.bridgit:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -6323,21 +6324,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:errorEnabled
+          @attr name es.age.apps.bridgit:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:errorTextAppearance
+          @attr name es.age.apps.bridgit:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -6347,17 +6348,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:hintAnimationEnabled
+          @attr name es.age.apps.bridgit:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:hintTextAppearance
+          @attr name es.age.apps.bridgit:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /** Attributes that can be used with a Theme.
@@ -6366,116 +6367,116 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider es.age.apps.bridgit.core.multiwiiremote:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground es.age.apps.bridgit.core.multiwiiremote:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme es.age.apps.bridgit.core.multiwiiremote:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize es.age.apps.bridgit.core.multiwiiremote:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle es.age.apps.bridgit.core.multiwiiremote:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle es.age.apps.bridgit.core.multiwiiremote:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle es.age.apps.bridgit.core.multiwiiremote:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle es.age.apps.bridgit.core.multiwiiremote:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle es.age.apps.bridgit.core.multiwiiremote:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme es.age.apps.bridgit.core.multiwiiremote:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme es.age.apps.bridgit.core.multiwiiremote:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle es.age.apps.bridgit.core.multiwiiremote:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle es.age.apps.bridgit.core.multiwiiremote:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance es.age.apps.bridgit.core.multiwiiremote:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor es.age.apps.bridgit.core.multiwiiremote:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground es.age.apps.bridgit.core.multiwiiremote:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle es.age.apps.bridgit.core.multiwiiremote:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable es.age.apps.bridgit.core.multiwiiremote:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle es.age.apps.bridgit.core.multiwiiremote:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground es.age.apps.bridgit.core.multiwiiremote:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle es.age.apps.bridgit.core.multiwiiremote:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable es.age.apps.bridgit.core.multiwiiremote:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle es.age.apps.bridgit.core.multiwiiremote:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle es.age.apps.bridgit.core.multiwiiremote:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle es.age.apps.bridgit.core.multiwiiremote:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle es.age.apps.bridgit.core.multiwiiremote:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons es.age.apps.bridgit.core.multiwiiremote:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle es.age.apps.bridgit.core.multiwiiremote:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme es.age.apps.bridgit.core.multiwiiremote:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider es.age.apps.bridgit:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground es.age.apps.bridgit:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme es.age.apps.bridgit:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize es.age.apps.bridgit:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle es.age.apps.bridgit:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle es.age.apps.bridgit:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle es.age.apps.bridgit:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle es.age.apps.bridgit:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle es.age.apps.bridgit:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme es.age.apps.bridgit:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme es.age.apps.bridgit:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle es.age.apps.bridgit:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle es.age.apps.bridgit:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance es.age.apps.bridgit:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor es.age.apps.bridgit:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground es.age.apps.bridgit:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle es.age.apps.bridgit:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable es.age.apps.bridgit:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable es.age.apps.bridgit:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable es.age.apps.bridgit:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable es.age.apps.bridgit:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable es.age.apps.bridgit:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle es.age.apps.bridgit:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable es.age.apps.bridgit:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable es.age.apps.bridgit:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground es.age.apps.bridgit:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle es.age.apps.bridgit:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable es.age.apps.bridgit:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle es.age.apps.bridgit:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle es.age.apps.bridgit:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle es.age.apps.bridgit:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle es.age.apps.bridgit:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons es.age.apps.bridgit:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle es.age.apps.bridgit:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme es.age.apps.bridgit:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle es.age.apps.bridgit.core.multiwiiremote:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle es.age.apps.bridgit.core.multiwiiremote:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle es.age.apps.bridgit.core.multiwiiremote:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle es.age.apps.bridgit.core.multiwiiremote:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle es.age.apps.bridgit.core.multiwiiremote:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle es.age.apps.bridgit.core.multiwiiremote:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle es.age.apps.bridgit.core.multiwiiremote:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle es.age.apps.bridgit.core.multiwiiremote:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall es.age.apps.bridgit.core.multiwiiremote:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle es.age.apps.bridgit.core.multiwiiremote:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle es.age.apps.bridgit.core.multiwiiremote:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent es.age.apps.bridgit.core.multiwiiremote:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal es.age.apps.bridgit.core.multiwiiremote:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated es.age.apps.bridgit.core.multiwiiremote:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight es.age.apps.bridgit.core.multiwiiremote:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal es.age.apps.bridgit.core.multiwiiremote:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary es.age.apps.bridgit.core.multiwiiremote:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark es.age.apps.bridgit.core.multiwiiremote:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal es.age.apps.bridgit.core.multiwiiremote:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground es.age.apps.bridgit.core.multiwiiremote:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding es.age.apps.bridgit.core.multiwiiremote:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme es.age.apps.bridgit.core.multiwiiremote:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal es.age.apps.bridgit.core.multiwiiremote:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical es.age.apps.bridgit.core.multiwiiremote:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle es.age.apps.bridgit.core.multiwiiremote:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight es.age.apps.bridgit.core.multiwiiremote:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground es.age.apps.bridgit.core.multiwiiremote:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor es.age.apps.bridgit.core.multiwiiremote:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle es.age.apps.bridgit.core.multiwiiremote:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator es.age.apps.bridgit.core.multiwiiremote:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle es.age.apps.bridgit.core.multiwiiremote:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator es.age.apps.bridgit.core.multiwiiremote:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog es.age.apps.bridgit.core.multiwiiremote:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle es.age.apps.bridgit.core.multiwiiremote:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight es.age.apps.bridgit.core.multiwiiremote:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge es.age.apps.bridgit.core.multiwiiremote:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall es.age.apps.bridgit.core.multiwiiremote:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft es.age.apps.bridgit.core.multiwiiremote:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight es.age.apps.bridgit.core.multiwiiremote:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground es.age.apps.bridgit.core.multiwiiremote:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme es.age.apps.bridgit.core.multiwiiremote:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth es.age.apps.bridgit.core.multiwiiremote:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle es.age.apps.bridgit.core.multiwiiremote:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle es.age.apps.bridgit.core.multiwiiremote:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle es.age.apps.bridgit.core.multiwiiremote:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle es.age.apps.bridgit.core.multiwiiremote:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle es.age.apps.bridgit.core.multiwiiremote:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle es.age.apps.bridgit.core.multiwiiremote:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground es.age.apps.bridgit.core.multiwiiremote:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless es.age.apps.bridgit.core.multiwiiremote:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle es.age.apps.bridgit.core.multiwiiremote:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle es.age.apps.bridgit.core.multiwiiremote:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle es.age.apps.bridgit.core.multiwiiremote:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu es.age.apps.bridgit.core.multiwiiremote:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem es.age.apps.bridgit.core.multiwiiremote:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall es.age.apps.bridgit.core.multiwiiremote:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle es.age.apps.bridgit.core.multiwiiremote:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle es.age.apps.bridgit.core.multiwiiremote:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu es.age.apps.bridgit.core.multiwiiremote:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem es.age.apps.bridgit.core.multiwiiremote:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl es.age.apps.bridgit.core.multiwiiremote:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle es.age.apps.bridgit.core.multiwiiremote:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle es.age.apps.bridgit.core.multiwiiremote:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar es.age.apps.bridgit.core.multiwiiremote:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay es.age.apps.bridgit.core.multiwiiremote:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay es.age.apps.bridgit.core.multiwiiremote:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor es.age.apps.bridgit.core.multiwiiremote:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor es.age.apps.bridgit.core.multiwiiremote:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor es.age.apps.bridgit.core.multiwiiremote:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor es.age.apps.bridgit.core.multiwiiremote:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor es.age.apps.bridgit.core.multiwiiremote:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor es.age.apps.bridgit.core.multiwiiremote:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle es.age.apps.bridgit.core.multiwiiremote:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle es.age.apps.bridgit:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle es.age.apps.bridgit:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle es.age.apps.bridgit:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle es.age.apps.bridgit:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle es.age.apps.bridgit:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle es.age.apps.bridgit:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle es.age.apps.bridgit:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle es.age.apps.bridgit:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall es.age.apps.bridgit:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle es.age.apps.bridgit:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle es.age.apps.bridgit:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent es.age.apps.bridgit:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal es.age.apps.bridgit:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated es.age.apps.bridgit:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight es.age.apps.bridgit:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal es.age.apps.bridgit:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary es.age.apps.bridgit:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark es.age.apps.bridgit:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal es.age.apps.bridgit:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground es.age.apps.bridgit:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding es.age.apps.bridgit:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme es.age.apps.bridgit:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal es.age.apps.bridgit:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical es.age.apps.bridgit:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle es.age.apps.bridgit:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight es.age.apps.bridgit:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground es.age.apps.bridgit:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor es.age.apps.bridgit:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle es.age.apps.bridgit:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator es.age.apps.bridgit:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_imageButtonStyle es.age.apps.bridgit:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator es.age.apps.bridgit:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog es.age.apps.bridgit:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle es.age.apps.bridgit:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight es.age.apps.bridgit:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge es.age.apps.bridgit:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall es.age.apps.bridgit:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft es.age.apps.bridgit:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight es.age.apps.bridgit:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground es.age.apps.bridgit:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme es.age.apps.bridgit:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth es.age.apps.bridgit:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle es.age.apps.bridgit:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle es.age.apps.bridgit:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle es.age.apps.bridgit:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle es.age.apps.bridgit:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle es.age.apps.bridgit:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_seekBarStyle es.age.apps.bridgit:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground es.age.apps.bridgit:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless es.age.apps.bridgit:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle es.age.apps.bridgit:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle es.age.apps.bridgit:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle es.age.apps.bridgit:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu es.age.apps.bridgit:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem es.age.apps.bridgit:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall es.age.apps.bridgit:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle es.age.apps.bridgit:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle es.age.apps.bridgit:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu es.age.apps.bridgit:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem es.age.apps.bridgit:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl es.age.apps.bridgit:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle es.age.apps.bridgit:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle es.age.apps.bridgit:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar es.age.apps.bridgit:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay es.age.apps.bridgit:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay es.age.apps.bridgit:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor es.age.apps.bridgit:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor es.age.apps.bridgit:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor es.age.apps.bridgit:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor es.age.apps.bridgit:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor es.age.apps.bridgit:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor es.age.apps.bridgit:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle es.age.apps.bridgit:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -6619,37 +6620,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fa, 0x7f0100fb
         };
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarDivider
+          @attr name es.age.apps.bridgit:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarItemBackground
+          @attr name es.age.apps.bridgit:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarPopupTheme
+          @attr name es.age.apps.bridgit:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6669,111 +6670,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarSize
+          @attr name es.age.apps.bridgit:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarSplitStyle
+          @attr name es.age.apps.bridgit:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarStyle
+          @attr name es.age.apps.bridgit:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarTabBarStyle
+          @attr name es.age.apps.bridgit:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarTabStyle
+          @attr name es.age.apps.bridgit:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarTabTextStyle
+          @attr name es.age.apps.bridgit:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarTheme
+          @attr name es.age.apps.bridgit:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionBarWidgetTheme
+          @attr name es.age.apps.bridgit:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionButtonStyle
+          @attr name es.age.apps.bridgit:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionDropDownStyle
+          @attr name es.age.apps.bridgit:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionMenuTextAppearance
+          @attr name es.age.apps.bridgit:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6781,181 +6782,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionMenuTextColor
+          @attr name es.age.apps.bridgit:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeBackground
+          @attr name es.age.apps.bridgit:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeCloseButtonStyle
+          @attr name es.age.apps.bridgit:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeCloseDrawable
+          @attr name es.age.apps.bridgit:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeCopyDrawable
+          @attr name es.age.apps.bridgit:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeCutDrawable
+          @attr name es.age.apps.bridgit:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeFindDrawable
+          @attr name es.age.apps.bridgit:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModePasteDrawable
+          @attr name es.age.apps.bridgit:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModePopupWindowStyle
+          @attr name es.age.apps.bridgit:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeSelectAllDrawable
+          @attr name es.age.apps.bridgit:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeShareDrawable
+          @attr name es.age.apps.bridgit:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeSplitBackground
+          @attr name es.age.apps.bridgit:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeStyle
+          @attr name es.age.apps.bridgit:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionModeWebSearchDrawable
+          @attr name es.age.apps.bridgit:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionOverflowButtonStyle
+          @attr name es.age.apps.bridgit:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:actionOverflowMenuStyle
+          @attr name es.age.apps.bridgit:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:activityChooserViewStyle
+          @attr name es.age.apps.bridgit:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:alertDialogButtonGroupStyle
+          @attr name es.age.apps.bridgit:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6965,27 +6966,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:alertDialogCenterButtons
+          @attr name es.age.apps.bridgit:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:alertDialogStyle
+          @attr name es.age.apps.bridgit:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:alertDialogTheme
+          @attr name es.age.apps.bridgit:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 94;
         /**
@@ -7001,117 +7002,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:autoCompleteTextViewStyle
+          @attr name es.age.apps.bridgit:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:borderlessButtonStyle
+          @attr name es.age.apps.bridgit:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonBarButtonStyle
+          @attr name es.age.apps.bridgit:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonBarNegativeButtonStyle
+          @attr name es.age.apps.bridgit:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonBarNeutralButtonStyle
+          @attr name es.age.apps.bridgit:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonBarPositiveButtonStyle
+          @attr name es.age.apps.bridgit:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonBarStyle
+          @attr name es.age.apps.bridgit:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonStyle
+          @attr name es.age.apps.bridgit:buttonStyle
         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:buttonStyleSmall
+          @attr name es.age.apps.bridgit:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:checkboxStyle
+          @attr name es.age.apps.bridgit:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:checkedTextViewStyle
+          @attr name es.age.apps.bridgit:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7122,11 +7123,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorAccent
+          @attr name es.age.apps.bridgit:colorAccent
         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7137,11 +7138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorButtonNormal
+          @attr name es.age.apps.bridgit:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7152,11 +7153,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorControlActivated
+          @attr name es.age.apps.bridgit:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7167,11 +7168,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorControlHighlight
+          @attr name es.age.apps.bridgit:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7182,11 +7183,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorControlNormal
+          @attr name es.age.apps.bridgit:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7197,11 +7198,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorPrimary
+          @attr name es.age.apps.bridgit:colorPrimary
         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7212,11 +7213,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorPrimaryDark
+          @attr name es.age.apps.bridgit:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7227,21 +7228,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:colorSwitchThumbNormal
+          @attr name es.age.apps.bridgit:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:controlBackground
+          @attr name es.age.apps.bridgit:controlBackground
         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7253,51 +7254,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dialogPreferredPadding
+          @attr name es.age.apps.bridgit:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dialogTheme
+          @attr name es.age.apps.bridgit:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dividerHorizontal
+          @attr name es.age.apps.bridgit:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dividerVertical
+          @attr name es.age.apps.bridgit:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dropDownListViewStyle
+          @attr name es.age.apps.bridgit:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7309,21 +7310,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:dropdownListPreferredItemHeight
+          @attr name es.age.apps.bridgit:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:editTextBackground
+          @attr name es.age.apps.bridgit:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7331,71 +7332,71 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:editTextColor
+          @attr name es.age.apps.bridgit:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:editTextStyle
+          @attr name es.age.apps.bridgit:editTextStyle
         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:homeAsUpIndicator
+          @attr name es.age.apps.bridgit:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:imageButtonStyle
+          @attr name es.age.apps.bridgit:imageButtonStyle
         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listChoiceBackgroundIndicator
+          @attr name es.age.apps.bridgit:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listDividerAlertDialog
+          @attr name es.age.apps.bridgit:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listPopupWindowStyle
+          @attr name es.age.apps.bridgit:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7407,11 +7408,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listPreferredItemHeight
+          @attr name es.age.apps.bridgit:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7423,11 +7424,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listPreferredItemHeightLarge
+          @attr name es.age.apps.bridgit:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7439,11 +7440,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listPreferredItemHeightSmall
+          @attr name es.age.apps.bridgit:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7455,11 +7456,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listPreferredItemPaddingLeft
+          @attr name es.age.apps.bridgit:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7471,31 +7472,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:listPreferredItemPaddingRight
+          @attr name es.age.apps.bridgit:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:panelBackground
+          @attr name es.age.apps.bridgit:panelBackground
         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:panelMenuListTheme
+          @attr name es.age.apps.bridgit:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7507,181 +7508,181 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:panelMenuListWidth
+          @attr name es.age.apps.bridgit:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:popupMenuStyle
+          @attr name es.age.apps.bridgit:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:popupWindowStyle
+          @attr name es.age.apps.bridgit:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:radioButtonStyle
+          @attr name es.age.apps.bridgit:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:ratingBarStyle
+          @attr name es.age.apps.bridgit:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:searchViewStyle
+          @attr name es.age.apps.bridgit:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:seekBarStyle
+          @attr name es.age.apps.bridgit:seekBarStyle
         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:selectableItemBackground
+          @attr name es.age.apps.bridgit:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:selectableItemBackgroundBorderless
+          @attr name es.age.apps.bridgit:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:spinnerDropDownItemStyle
+          @attr name es.age.apps.bridgit:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:spinnerStyle
+          @attr name es.age.apps.bridgit:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:switchStyle
+          @attr name es.age.apps.bridgit:switchStyle
         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAppearanceLargePopupMenu
+          @attr name es.age.apps.bridgit:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAppearanceListItem
+          @attr name es.age.apps.bridgit:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAppearanceListItemSmall
+          @attr name es.age.apps.bridgit:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAppearanceSearchResultSubtitle
+          @attr name es.age.apps.bridgit:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAppearanceSearchResultTitle
+          @attr name es.age.apps.bridgit:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textAppearanceSmallPopupMenu
+          @attr name es.age.apps.bridgit:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7689,11 +7690,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textColorAlertDialogListItem
+          @attr name es.age.apps.bridgit:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7701,31 +7702,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:textColorSearchUrl
+          @attr name es.age.apps.bridgit:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:toolbarNavigationButtonStyle
+          @attr name es.age.apps.bridgit:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:toolbarStyle
+          @attr name es.age.apps.bridgit:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7735,11 +7736,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowActionBar
+          @attr name es.age.apps.bridgit:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7749,11 +7750,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowActionBarOverlay
+          @attr name es.age.apps.bridgit:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7763,11 +7764,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowActionModeOverlay
+          @attr name es.age.apps.bridgit:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7782,11 +7783,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowFixedHeightMajor
+          @attr name es.age.apps.bridgit:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7801,11 +7802,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowFixedHeightMinor
+          @attr name es.age.apps.bridgit:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7820,11 +7821,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowFixedWidthMajor
+          @attr name es.age.apps.bridgit:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7839,11 +7840,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowFixedWidthMinor
+          @attr name es.age.apps.bridgit:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7858,11 +7859,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowMinWidthMajor
+          @attr name es.age.apps.bridgit:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7877,11 +7878,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowMinWidthMinor
+          @attr name es.age.apps.bridgit:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7891,7 +7892,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:windowNoTitle
+          @attr name es.age.apps.bridgit:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -7902,29 +7903,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription es.age.apps.bridgit.core.multiwiiremote:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon es.age.apps.bridgit.core.multiwiiremote:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd es.age.apps.bridgit.core.multiwiiremote:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft es.age.apps.bridgit.core.multiwiiremote:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight es.age.apps.bridgit.core.multiwiiremote:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart es.age.apps.bridgit.core.multiwiiremote:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo es.age.apps.bridgit.core.multiwiiremote:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription es.age.apps.bridgit.core.multiwiiremote:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight es.age.apps.bridgit.core.multiwiiremote:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription es.age.apps.bridgit.core.multiwiiremote:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon es.age.apps.bridgit.core.multiwiiremote:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme es.age.apps.bridgit.core.multiwiiremote:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle es.age.apps.bridgit.core.multiwiiremote:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance es.age.apps.bridgit.core.multiwiiremote:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor es.age.apps.bridgit.core.multiwiiremote:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title es.age.apps.bridgit.core.multiwiiremote:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom es.age.apps.bridgit.core.multiwiiremote:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd es.age.apps.bridgit.core.multiwiiremote:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart es.age.apps.bridgit.core.multiwiiremote:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop es.age.apps.bridgit.core.multiwiiremote:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins es.age.apps.bridgit.core.multiwiiremote:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance es.age.apps.bridgit.core.multiwiiremote:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor es.age.apps.bridgit.core.multiwiiremote:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription es.age.apps.bridgit:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon es.age.apps.bridgit:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd es.age.apps.bridgit:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft es.age.apps.bridgit:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight es.age.apps.bridgit:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart es.age.apps.bridgit:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo es.age.apps.bridgit:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription es.age.apps.bridgit:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight es.age.apps.bridgit:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription es.age.apps.bridgit:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon es.age.apps.bridgit:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme es.age.apps.bridgit:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle es.age.apps.bridgit:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance es.age.apps.bridgit:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor es.age.apps.bridgit:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title es.age.apps.bridgit:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom es.age.apps.bridgit:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd es.age.apps.bridgit:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart es.age.apps.bridgit:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop es.age.apps.bridgit:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins es.age.apps.bridgit:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance es.age.apps.bridgit:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor es.age.apps.bridgit:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -7974,7 +7975,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7984,21 +7985,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:collapseContentDescription
+          @attr name es.age.apps.bridgit:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:collapseIcon
+          @attr name es.age.apps.bridgit:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8010,11 +8011,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetEnd
+          @attr name es.age.apps.bridgit:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8026,11 +8027,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetLeft
+          @attr name es.age.apps.bridgit:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8042,11 +8043,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetRight
+          @attr name es.age.apps.bridgit:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8058,21 +8059,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:contentInsetStart
+          @attr name es.age.apps.bridgit:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#logo}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:logo
+          @attr name es.age.apps.bridgit:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8082,11 +8083,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:logoDescription
+          @attr name es.age.apps.bridgit:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8098,11 +8099,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:maxButtonHeight
+          @attr name es.age.apps.bridgit:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8112,31 +8113,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:navigationContentDescription
+          @attr name es.age.apps.bridgit:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:navigationIcon
+          @attr name es.age.apps.bridgit:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:popupTheme
+          @attr name es.age.apps.bridgit:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8146,21 +8147,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:subtitle
+          @attr name es.age.apps.bridgit:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:subtitleTextAppearance
+          @attr name es.age.apps.bridgit:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8171,11 +8172,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:subtitleTextColor
+          @attr name es.age.apps.bridgit:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#title}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8185,11 +8186,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:title
+          @attr name es.age.apps.bridgit:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8201,11 +8202,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleMarginBottom
+          @attr name es.age.apps.bridgit:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8217,11 +8218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleMarginEnd
+          @attr name es.age.apps.bridgit:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8233,11 +8234,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleMarginStart
+          @attr name es.age.apps.bridgit:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8249,11 +8250,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleMarginTop
+          @attr name es.age.apps.bridgit:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8265,21 +8266,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleMargins
+          @attr name es.age.apps.bridgit:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleTextAppearance
+          @attr name es.age.apps.bridgit:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8290,7 +8291,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:titleTextColor
+          @attr name es.age.apps.bridgit:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -8301,9 +8302,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd es.age.apps.bridgit.core.multiwiiremote:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart es.age.apps.bridgit.core.multiwiiremote:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme es.age.apps.bridgit.core.multiwiiremote:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd es.age.apps.bridgit:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart es.age.apps.bridgit:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme es.age.apps.bridgit:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -8328,7 +8329,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8340,11 +8341,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:paddingEnd
+          @attr name es.age.apps.bridgit:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8356,17 +8357,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:paddingStart
+          @attr name es.age.apps.bridgit:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#theme}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name es.age.apps.bridgit.core.multiwiiremote:theme
+          @attr name es.age.apps.bridgit:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -8376,8 +8377,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint es.age.apps.bridgit.core.multiwiiremote:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode es.age.apps.bridgit.core.multiwiiremote:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint es.age.apps.bridgit:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode es.age.apps.bridgit:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -8393,7 +8394,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8404,11 +8405,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundTint
+          @attr name es.age.apps.bridgit:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link es.age.apps.bridgit.core.multiwiiremote.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link es.age.apps.bridgit.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8424,7 +8425,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name es.age.apps.bridgit.core.multiwiiremote:backgroundTintMode
+          @attr name es.age.apps.bridgit:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

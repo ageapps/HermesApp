@@ -40,7 +40,6 @@ public class RemoteActivity extends BaseActivity {
     public static String GAMEACTIVITY_EXTRA = RemoteActivity.class.getName();
     public Typeface type;
 
-
     private enum InputMode {
         ACCELEROMETER, TOUCH
     }
@@ -524,7 +523,7 @@ public class RemoteActivity extends BaseActivity {
         //Register our listeners
         //SENSOR_DELAY_FASTEST   get sensor data as fast as possible
         //SENSOR_DELAY_GAME   rate suitable for games
-        //SENSOR_DELAY_NORMAL   rate (default) suitable for screen orientation changes
+        //SENSOR_DELAY_NORMAL   rate (default) suitable for  screen orientation changes
         //SENSOR_DELAY_UI
 
         mSensorManager.registerListener(sensorEventListener, accelerometer, mSensorManager.SENSOR_DELAY_FASTEST);
@@ -537,6 +536,21 @@ public class RemoteActivity extends BaseActivity {
         if (sensorAvailable) {
             mSensorManager.unregisterListener(sensorEventListener);
             sensorAvailable = false;
+        }
+    }
+    // int requests[] = new int[] { MultirotorData.MSP_DEBUG,
+    // MultirotorData.MSP_ALTITUDE, MultirotorData.MSP_RC };
+    public void onSensorsStateChangeRotate() {
+        if (inputMode == InputMode.ACCELEROMETER) {
+            float xCoordinate = (float) Utilities.mapCons(-app.sensors.pitch,
+                    app.sensors.getMinValue(),
+                    app.sensors.getMaxValue(),
+                    -dualJoystickView.stickR.getMovementRange()/2, dualJoystickView.stickR.getMovementRange()/2);
+            float yCoordinate = (float) Utilities.mapCons(-app.sensors.roll,
+                    app.sensors.getMinValue(),
+                    app.sensors.getMaxValue(),
+                    -dualJoystickView.stickR.getMovementRange()/2, dualJoystickView.stickR.getMovementRange()/2);
+           // dualJoystickView.stickR.setCoordinates(xCoordinate, yCoordinate);
         }
     }
 

@@ -7,6 +7,7 @@ import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
 
 import es.age.apps.bridgit.activities.RemoteActivity;
+import es.age.apps.bridgit.core.Utilities.Utilities;
 import es.age.apps.bridgit.ui.joystick.JoystickMovedListener;
 
 public class RemoteActivityEvents {
@@ -72,5 +73,6 @@ public class RemoteActivityEvents {
 			}
 		}
 	};
+
 
 }

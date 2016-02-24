@@ -139,7 +139,8 @@ public abstract class Communication {
 	
 	public abstract String getConnectionState();
 
-	
+	public abstract CommunicationMode getMode();
+
 	public abstract int getStrength();
 	
 }

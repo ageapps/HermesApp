@@ -247,7 +247,7 @@
             android:rotation="180"
             android:src="@drawable/flecha_dcha_negra" />
 
-        <view
+         <view
             android:id="@+id/joystick"
             class="es.age.apps.bridgit.ui.joystick.JoystickView"
             android:layout_width="200dip"
@@ -324,4 +324,4 @@
         </LinearLayout>
 
     </RelativeLayout>
-</RelativeLayout><!-- From: file:/Users/adricacho/Downloads/Bridgit/app/src/main/res/layout/one_hand_activity.xml -->
+</RelativeLayout><!-- From: file:/Users/adricacho/GIT/BridgitApp/app/src/main/res/layout/one_hand_activity.xml -->

@@ -5,7 +5,7 @@ package es.age.apps.bridgit.core.remote;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "es.age.apps.bridgit.core.multiwiiremote";
+  public static final String APPLICATION_ID = "es.age.apps.bridgit";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;

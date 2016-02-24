@@ -4,6 +4,7 @@ package es.age.apps.bridgit;
 import es.age.apps.bridgit.activities.RemoteActivity;
 import es.age.apps.bridgit.core.communication.Bluetooth;
 import es.age.apps.bridgit.core.communication.Communication;
+import es.age.apps.bridgit.core.communication.CommunicationMode;
 import es.age.apps.bridgit.core.remote.R;
 import es.age.apps.bridgit.core.remote.RepeatTimer;
 import es.age.apps.bridgit.core.protocol.MultiWii230;
@@ -17,12 +18,16 @@ import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.os.Handler;
 import android.preference.PreferenceManager;
+import android.util.Log;
+
+import java.util.Locale;
 
 public class App extends Application {
 
     /////Settings variables/////////
     public String FLIGHTMODE;
     public boolean PROGRESS;
+    public CommunicationMode comMode;
     public int RollPitchLimit;
     public int RefreshRate = 40; //TODO ADD TO XML
     public int TrimRoll;
@@ -34,7 +39,7 @@ public class App extends Application {
     public static String MAC_ADDRES = "00:15:FF:F2:19:5F";
 
     public boolean PreventExitWhenFlying;
-
+    public Sensors sensors;
 
     private RemoteActivity remoteActivity;
     public String Aux1Txt;
@@ -160,7 +165,7 @@ public class App extends Application {
         prefs = PreferenceManager.getDefaultSharedPreferences(this);
         prefsEditor = prefs.edit();
 
-        //sensors = new Sensors(getApplicationContext(), this);
+        sensors = new Sensors(getApplicationContext(), this);
         Init();
 
 
@@ -188,7 +193,7 @@ public class App extends Application {
         AuxTextChanged = true;
 
         PreventExitWhenFlying = prefs.getBoolean(SettingsConstants.PREVENTEXITWHENFLYING.toString(), SettingsConstants.PREVENTEXITWHENFLYING.DefaultB());
-
+        comMode = CommunicationMode.valueOf(prefs.getString("comMode", "Bluetooth").toUpperCase(Locale.US));
         SensorFilterAlpha = prefs.getString(SettingsConstants.SENSORFILTERALPHA.toString(), SettingsConstants.SENSORFILTERALPHA.DefaultS());
         Alpha = getAlpha(SensorFilterAlpha);
         updateComMode();
@@ -234,15 +239,24 @@ public class App extends Application {
     }
 
     protected void updateComMode() {
+        if(commMW != null && commMW.getMode() == comMode) return;
 
         if (commMW != null) commMW.Close();
 
-        commMW = new Bluetooth(getApplicationContext());
-        WriteRepeatDelayMillis = 40;
+        switch (comMode) {
+            case BLUETOOTH:
+                commMW = new Bluetooth(getApplicationContext());
+                WriteRepeatDelayMillis = 40;
+                break;
+            case WIFI:
+               /* commMW = new Wifi(getApplicationContext());
+                WriteRepeatDelayMillis = 20;
+                break;*/
+                Log.d(TAG,"IMPOSIBLEEEEEE");
+        }
         if (mHandler != null) commMW.SetHandler(mHandler);
         SelectProtocol();
     }
-
     public void SelectProtocol() {
         if (protocol != null) protocol.stop();
 
@@ -259,24 +273,22 @@ public class App extends Application {
 
     public void onResume() {
         ReadSettings();
-        /*if(!remoteActivity.isDualJoyStick()) {
+        if(!remoteActivity.isDualJoyStick()) {
             this.sensors.start();
-        }*/
+        }
     }
 
     public void onPause() {
         this.SaveSettings();
-        /*if(!remoteActivity.isDualJoyStick()) {
+        if(!remoteActivity.isDualJoyStick()) {
             this.sensors.stop();
-        }*/
+        }
     }
 
     public void stop() {
         if (protocol != null) protocol.stop();
         if (commMW != null) commMW.Close();
-        /*if(!remoteActivity.isDualJoyStick()) {
-            this.sensors.stop();
-        }*/
+
     }
 
     @Override
@@ -332,6 +344,10 @@ public class App extends Application {
         return alpha;
 
     }
-
+   /* @Override
+    public void onSensorsStateChangeMagAcc() {
+        if(mHandler != null) mHandler.sendEmptyMessage(SENSORSCHANGED);
+    }
+*/
 
 }
