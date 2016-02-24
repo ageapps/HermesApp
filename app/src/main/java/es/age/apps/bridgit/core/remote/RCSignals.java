@@ -120,13 +120,13 @@ public class RCSignals {
 		setPitch((int) (Utilities.map(pitch, -500, 500, -RollPitchLimit, RollPitchLimit) + 1500));
 	}
 	public void setAdjustedRollAcc(float roll) {
-		setRoll((int) (Utilities.map(roll, -3.15, 3.15, -RollPitchLimit, RollPitchLimit) + 1500));
+		setRoll((int) (Utilities.map(roll, -1, 1, -RollPitchLimit, RollPitchLimit) + 1500));
 	}
 	public void setAdjustedPitchAcc(float pitch) {
-		setPitch((int) (Utilities.map(pitch, -3.15, 3.15, -RollPitchLimit, RollPitchLimit) + 1500));
+		setPitch((int) (Utilities.map(pitch, -1,1, -RollPitchLimit, RollPitchLimit) + 1500));
 	}
     public void setAdjustedThrottle(int throttle) {
-        setThrottle((int) (Utilities.map(throttle, -500, 500, 0, ThrottleLimit) + 1000));//adjust throttle range....
+        setThrottle((int) (Utilities.map(throttle, -500, 500, -500, ThrottleLimit) + 1500));//adjust throttle range....
     }
 
     public void setAdjustedYaw(int yaw) {
