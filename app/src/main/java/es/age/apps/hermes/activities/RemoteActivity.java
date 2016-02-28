@@ -217,6 +217,7 @@ public class RemoteActivity extends BaseActivity {
         mHandler.sendEmptyMessage(7);
         //send RC signal
         if (app.commMW.Connected) {
+            setStatus("Connected");
             //Create payload TODO
             //new cycle begin if an ATTITUDE ACK is received or 300ms passed(package lost)
             long currentTime = System.currentTimeMillis();

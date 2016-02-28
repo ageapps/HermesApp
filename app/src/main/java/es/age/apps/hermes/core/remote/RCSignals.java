@@ -147,7 +147,7 @@ public class RCSignals {
     }
 
     public void setAdjustedRollAcc(float roll) {
-        setRoll((int) (Utilities.map(roll, -1, 1, -RollPitchLimit, RollPitchLimit) + 1500));
+        setRoll((int) (Utilities.map(roll, -0.7, 0.7, -RollPitchLimit, RollPitchLimit) + 1500));
     }
 
     public void setAdjustedPitchAcc(float pitch) {
