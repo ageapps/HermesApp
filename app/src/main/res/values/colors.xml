@@ -14,5 +14,6 @@
     <color name="colorJoystickButton2Pressed">#76FF03</color>
     <color name="colorJoystickButton2DarkPressed">#64DD17</color>
     <color name="colorJoystickButton2">#D50000</color>
+    <color name="bt_color">#0A3D91</color>
     <color name="colorJoystickButton2Dark">#B71C1C</color>
 </resources>

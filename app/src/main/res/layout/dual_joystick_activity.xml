@@ -212,6 +212,66 @@
 
 
             </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_a3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+                <ProgressBar
+                    android:id="@+id/progress_a3"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/txt_a4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="5dp"
+                    android:text="2"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+                <ProgressBar
+                    android:id="@+id/progress_a4"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:max="1000"
+                    android:progressDrawable="@drawable/custom_progress_bar"
+                    android:progress="1000" />
+
+
+            </TableRow>
         </TableLayout>
 
 
@@ -269,6 +329,18 @@
             android:textOff="@string/aux4"
             android:textOn="@string/aux4" />
 
+        <Button
+            android:id="@+id/butt_connect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/aux4Btn"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/custom_bt_button"
+            android:text="Connect"
+            android:textColor="@android:color/white" />
+
+
         <TextView
             android:id="@+id/status"
             android:layout_width="wrap_content"
@@ -288,7 +360,7 @@
 
             <view
                 android:id="@+id/DualJoystickView"
-                class="es.age.apps.bridgit.ui.joystick.DualJoystickView"
+                class="es.age.apps.hermes.ui.joystick.DualJoystickView"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:minWidth="800px"

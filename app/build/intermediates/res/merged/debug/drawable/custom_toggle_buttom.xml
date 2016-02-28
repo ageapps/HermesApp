@@ -6,4 +6,4 @@
     <item
         android:state_checked="true"
         android:drawable="@drawable/custom_shape_toggle_button_pressed" />
-</selector><!-- From: file:/Users/adricacho/GIT/BridgitApp/app/src/main/res/drawable/custom_toggle_buttom.xml -->
+</selector><!-- From: file:/Users/adricacho/GIT/Hermes/app/src/main/res/drawable/custom_toggle_buttom.xml -->

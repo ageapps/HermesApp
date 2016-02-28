@@ -53,4 +53,4 @@
         android:layout_height="wrap_content"
         android:text="@string/button_scan"
     />
-</LinearLayout><!-- From: file:/Users/adricacho/GIT/BridgitApp/app/src/main/res/layout/device_list.xml -->
+</LinearLayout><!-- From: file:/Users/adricacho/GIT/Hermes/app/src/main/res/layout/device_list.xml -->

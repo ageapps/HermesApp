@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="es.age.apps.bridgit.test">
+    package="es.age.apps.hermes.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="10" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="es.age.apps.bridgit"
+                     android:targetPackage="es.age.apps.hermes"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for es.age.apps.bridgit"/>
+                     android:label="Tests for es.age.apps.hermes"/>
 </manifest>

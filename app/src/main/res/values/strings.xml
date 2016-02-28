@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Bridgit</string>
+    <string name="app_name">Hermes</string>
     <string name="action_settings">Settings</string>
     <string name="aux1">AUX1</string>
     <string name="aux2">AUX2</string>
@@ -27,5 +27,6 @@
 
     <string name="mode_joystick">MODO JOYSTICK</string>
     <string name="mode_accel">MODO ONE HAND</string>
-    
+    <string name="message_is_flying">El dron esta volando. Baja el throttle a 1100.</string>
+
 </resources>

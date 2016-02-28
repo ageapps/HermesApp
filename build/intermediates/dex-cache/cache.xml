@@ -2,46 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/pre-dexed/debug/classes-21bc4e164bda4fa4ea4d21ed409152f0604b0223.jar" />
-    </item>
-    <item
         jar="/Users/adricacho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-b6830028c2516aa50629489bdcb73f56f14dfda0.jar" />
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-b6830028c2516aa50629489bdcb73f56f14dfda0.jar" />
     </item>
     <item
-        jar="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jar="/Users/adricacho/GIT/Hermes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/pre-dexed/debug/classes-b03deb7b9c0e0b6354214955ede1a77d9c4bebc1.jar" />
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/classes-a3bbdbbc89c372ee48b3adfbbe53963df6e2b4b9.jar" />
     </item>
     <item
-        jar="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/pre-dexed/debug/classes-b8446029519602796e3f59d17e6481274d13cc0e.jar" />
-    </item>
-    <item
-        jar="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jar="/Users/adricacho/GIT/Hermes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/pre-dexed/debug/classes-b5ad437596184c784a1f2a2609fdb81fb4aa97cd.jar" />
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/classes-bfaecc7746900b09bc6a85795f194e9736206f78.jar" />
     </item>
     <item
-        jar="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jar="/Users/adricacho/GIT/Hermes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/adricacho/GIT/BridgitApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-7ecf8654590f9161ed5a580b502ef79cea097173.jar" />
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-65b22056fa599ea5f3c23c822bf502450113c773.jar" />
+    </item>
+    <item
+        jar="/Users/adricacho/GIT/Hermes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/classes-257b61f990e1b47e0c543d2619b4d16b0d02e3ab.jar" />
+    </item>
+    <item
+        jar="/Users/adricacho/GIT/Hermes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/classes-605738cd8f393cf4d9641e9d56f51cac3843e426.jar" />
+    </item>
+    <item
+        jar="/Users/adricacho/GIT/Hermes/app/build/intermediates/exploded-aar/com.jmedeisis/bugstick/0.2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ccb87c4b293be4a4cf1e2678e5f9195dfe907b6">
+        <dex dex="/Users/adricacho/GIT/Hermes/app/build/intermediates/pre-dexed/debug/classes-211fa97166659c8f24f5c23f52e87b351e530f58.jar" />
     </item>
 
 </items>
