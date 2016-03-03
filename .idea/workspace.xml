@@ -22,7 +22,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="523e1b97-987f-4f62-ad7d-07b06516b05c" name="Default" comment="">
+    <list default="true" id="523e1b97-987f-4f62-ad7d-07b06516b05c" name="Default" comment="Some new changes">
       <change type="DELETED" beforePath="$PROJECT_DIR$/Bridgit.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/BridgitApp.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
