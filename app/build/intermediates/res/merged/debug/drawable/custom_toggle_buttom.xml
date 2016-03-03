@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:state_checked="false"
-        android:drawable="@drawable/custom_shape_toggle_button_unpressed" />
-    <item
-        android:state_checked="true"
-        android:drawable="@drawable/custom_shape_toggle_button_pressed" />
-</selector><!-- From: file:/Users/adricacho/GIT/Hermes/app/src/main/res/drawable/custom_toggle_buttom.xml -->
