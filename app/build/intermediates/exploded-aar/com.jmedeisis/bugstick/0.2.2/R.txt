@@ -1,0 +1,13 @@
+int attr force_square 0x7f010001
+int attr motion_constraint 0x7f010003
+int attr radius 0x7f010002
+int attr start_on_first_touch 0x7f010000
+int id Horizontal 0x7f030000
+int id None 0x7f030001
+int id Vertical 0x7f030002
+int string app_name 0x7f020000
+int[] styleable Joystick { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable Joystick_force_square 1
+int styleable Joystick_motion_constraint 3
+int styleable Joystick_radius 2
+int styleable Joystick_start_on_first_touch 0

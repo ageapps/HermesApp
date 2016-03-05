@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Joystick"><attr format="boolean" name="start_on_first_touch"/><attr format="boolean" name="force_square"/><attr format="dimension" name="radius"/><attr format="enum" name="motion_constraint"><enum name="None" value="0"/><enum name="Horizontal" value="1"/><enum name="Vertical" value="2"/></attr></declare-styleable>
+    <!-- From: file:/D:/Dropbox/Android%20Studio%20Projects/Bugstick/bugstick/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Bugstick</string>
+</resources>

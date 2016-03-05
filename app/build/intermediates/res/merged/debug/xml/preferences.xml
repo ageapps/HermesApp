@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/action_settings">
+
+        <ListPreference
+            android:defaultValue="Normal"
+            android:entries="@array/flightmodes"
+            android:entryValues="@array/flightmodes"
+            android:key="FLIGHTMODE"
+            android:summary="Select a Flight Mode according to your experience"
+            android:title="Flight Mode" />
+        <ListPreference
+            android:defaultValue="Medium"
+            android:key="SENSORFILTERALPHA"
+            android:entries="@array/filters"
+            android:entryValues="@array/filters"
+            android:summary="The amount of smoothing of the accelerometer when turning your phone"
+            android:title="Sensor Sensibility"/>
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="PROGRESS"
+            android:summary="Enable to see roll/pitch/yaw Progress Bars on screen"
+            android:title="Show Progress Bars" />
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:title="Aux Rename">
+        <EditTextPreference
+            android:defaultValue="@string/aux1"
+            android:key="AUX1TXT"
+            android:title="AUX1" />
+        <EditTextPreference
+            android:defaultValue="@string/aux2"
+            android:key="AUX2TXT"
+            android:title="AUX2" />
+        <EditTextPreference
+            android:defaultValue="@string/aux3"
+            android:key="AUX3TXT"
+            android:title="AUX3" />
+        <EditTextPreference
+            android:defaultValue="@string/aux4"
+            android:key="AUX4TXT"
+            android:title="AUX4" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Other">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="PREVENTEXITWHENFLYING"
+            android:summary="Disables the back button when throttle is 1100 or above."
+            android:title="Prevent Exit when flying" />
+        <EditTextPreference
+            android:defaultValue="0"
+            android:key="TRIMROLL"
+            android:title="Roll Trim" />
+        <EditTextPreference
+            android:defaultValue="0"
+            android:key="TRIMPITCH"
+            android:title="Pitch Trim" />
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/Users/adricacho/GIT/Hermes/app/src/main/res/xml/preferences.xml -->

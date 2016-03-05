@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flightmodes">
+        <item name="Professional">Professional</item>
+        <item name="Normal">Normal</item>
+        <item name="Beginner">Beginner</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item name="High">High</item>
+        <item name="Medium">Medium</item>
+        <item name="Low">Low</item>
+    </string-array>
+    
+    <string-array name="menuString">
+        <item name="Connect">Connect</item>
+        <item name="Settings">Settings</item>
+    </string-array>
+</resources>
