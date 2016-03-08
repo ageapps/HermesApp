@@ -55,6 +55,7 @@ public class RCSignals {
     public int RollPitchLimit = 500;
     public int ThrottleLimit = 500;
     public int YAW_RESOLUTION = 5;
+    public boolean blockyaw = true;
 
     public RCSignals() {
         resetRcSignals();
@@ -159,7 +160,10 @@ public class RCSignals {
     }
 
     public void setAdjustedYaw(int yaw) {
-        setYaw((int) (Utilities.map(yaw, -500, 500, -ThrottleLimit, ThrottleLimit) + 1500));
+        if (!blockyaw) {
+            setYaw((int) (Utilities.map(yaw, -500, 500, -ThrottleLimit, ThrottleLimit) + 1500));
+        }
+        Log.i("Events", "Delta bloqueado: " + blockyaw);
     }
 
     public int getThrottle() {

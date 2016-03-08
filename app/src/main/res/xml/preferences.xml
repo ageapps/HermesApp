@@ -23,6 +23,12 @@
             android:summary="Enable to see roll/pitch/yaw Progress Bars on screen"
             android:title="Show Progress Bars" />
 
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="BLOCKYAW"
+            android:summary="Enable to block Yaw control in One Hand Mode"
+            android:title="Block Yaw" />
+
     </PreferenceCategory>
 
 

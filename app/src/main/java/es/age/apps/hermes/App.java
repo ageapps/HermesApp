@@ -32,6 +32,7 @@ public class App extends Application {
     public int RefreshRate = 40; //TODO ADD TO XML
     public int TrimRoll;
     public int TrimPitch;
+    public boolean BLOCKYAW;
     public int ThrottleResolution;
     public int BaudRate = 115200;
     public String SensorFilterAlpha;
@@ -68,12 +69,13 @@ public class App extends Application {
         AUX2TXT("AUX 2"),
         AUX3TXT("AUX 3"),
         AUX4TXT("AUX 4"),
+        BLOCKYAW(true),
         USECAMERA(false),
         SENSORFILTERALPHA(0.03f),
         //KEEPSCREENON(true),
         PREVENTEXITWHENFLYING(true),
         ROLLPITCHLIMIT(250),
-        FLIGHTMODE(250),
+        FLIGHTMODE("Normal"),
         SSID("");
 
         private String value;
@@ -181,7 +183,7 @@ public class App extends Application {
         TrimRoll = Integer.parseInt(prefs.getString(SettingsConstants.TRIMROLL.toString(), SettingsConstants.TRIMROLL.DefaultS()));
         TrimPitch = Integer.parseInt(prefs.getString(SettingsConstants.TRIMPITCH.toString(), SettingsConstants.TRIMPITCH.DefaultS()));
         FLIGHTMODE = prefs.getString(SettingsConstants.FLIGHTMODE.toString(), SettingsConstants.FLIGHTMODE.DefaultS());
-
+        BLOCKYAW = prefs.getBoolean(SettingsConstants.BLOCKYAW.toString(), SettingsConstants.BLOCKYAW.DefaultB());
 
         ThrottleResolution = getThrottleResolution(FLIGHTMODE);
         RollPitchLimit = getRollPitchLimit(FLIGHTMODE);
@@ -202,6 +204,7 @@ public class App extends Application {
     @SuppressLint("NewApi")
     public void SaveSettings() {
         prefsEditor.putBoolean(SettingsConstants.PROGRESS.toString(), PROGRESS);
+        prefsEditor.putBoolean(SettingsConstants.BLOCKYAW.toString(), BLOCKYAW);
         prefsEditor.putString(SettingsConstants.REFRESHRATE.toString(), RefreshRate + "");
         prefsEditor.putString(SettingsConstants.TRIMROLL.toString(), TrimRoll + "");
         prefsEditor.putString(SettingsConstants.TRIMPITCH.toString(), TrimPitch + "");
@@ -307,7 +310,7 @@ public class App extends Application {
                 limit = 250;
                 break;
             case "Beginner":
-                limit = 100;
+                limit = 200;
         }
         return limit;
 

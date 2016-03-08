@@ -89,7 +89,7 @@ public class RemoteActivity extends BaseActivity {
     private long[] delayTimeRaw = new long[5];
     private boolean isDelayTimeAvailable = false;
     private int delayTimeIdx = 0;
-    private String status ="";
+    private String status = "";
 
     public RCSignals rc;
     RemoteActivityEvents mEvents;
@@ -253,7 +253,7 @@ public class RemoteActivity extends BaseActivity {
     }
 
     public void setStatus(String status) {
-        this.status= status;
+        this.status = status;
         this.txtStatus.setText(status);
         app.Status = status;
     }
@@ -286,6 +286,7 @@ public class RemoteActivity extends BaseActivity {
         rc.TrimPitch = app.TrimPitch;
         rc.RollPitchLimit = app.RollPitchLimit;
         rc.ThrottleLimit = app.RollPitchLimit;
+        rc.blockyaw = app.BLOCKYAW;
 
         if (app.AuxTextChanged) {
             setAuxbtnTxt(auxBtn[0], app.Aux1Txt);
@@ -311,9 +312,9 @@ public class RemoteActivity extends BaseActivity {
 
     public void UpdateUI() {
         txtStatus.setText(status);
-        if(status == "Connected"){
+        if (status == "Connected") {
             butt_connect_bt.setBackgroundResource(R.drawable.custom_shape_toggle_button_pressed);
-        }else {
+        } else {
             butt_connect_bt.setBackgroundResource(R.drawable.custom_bt_button);
         }
 
@@ -370,7 +371,7 @@ public class RemoteActivity extends BaseActivity {
             return;
         }
         rc.set(RCSignals.AUX1, ((ToggleButton) v).isChecked());
-        isArmed =  ((ToggleButton) v).isChecked();
+        isArmed = ((ToggleButton) v).isChecked();
         Log.i("AUX1", " " + isArmed);
     }
 
@@ -382,8 +383,8 @@ public class RemoteActivity extends BaseActivity {
             return;
         }
         rc.set(RCSignals.AUX2, ((ToggleButton) v).isChecked());
-        isArmed =  ((ToggleButton) v).isChecked();
-        Log.i("AUX2", " "+ isArmed);
+        isArmed = ((ToggleButton) v).isChecked();
+        Log.i("AUX2", " " + isArmed);
     }
 
     public void aux3_Click(View v) {
@@ -394,8 +395,8 @@ public class RemoteActivity extends BaseActivity {
             return;
         }
         rc.set(RCSignals.AUX3, ((ToggleButton) v).isChecked());
-        isArmed =  ((ToggleButton) v).isChecked();
-        Log.i("AUX3", " "+ isArmed);
+        isArmed = ((ToggleButton) v).isChecked();
+        Log.i("AUX3", " " + isArmed);
     }
 
     public void aux4_Click(View v) {
@@ -406,8 +407,8 @@ public class RemoteActivity extends BaseActivity {
             return;
         }
         rc.set(RCSignals.AUX4, ((ToggleButton) v).isChecked());
-        isArmed =  ((ToggleButton) v).isChecked();
-        Log.i("AUX4", " "+ isArmed);
+        isArmed = ((ToggleButton) v).isChecked();
+        Log.i("AUX4", " " + isArmed);
     }
 
     @Override
@@ -456,11 +457,11 @@ public class RemoteActivity extends BaseActivity {
     // /////////////////////////////End Menu/////////////////////////////
     @Override
     public boolean dispatchKeyEvent(KeyEvent event) {
-        if (app.PreventExitWhenFlying && rc.isFlying() && (event.getKeyCode() == KeyEvent.KEYCODE_BACK || event.getKeyCode() == KeyEvent.KEYCODE_APP_SWITCH || event.getKeyCode() == KeyEvent.KEYCODE_HOME)) {
+        if (app.PreventExitWhenFlying && rc.getThrottle()> 1010 && (event.getKeyCode() == KeyEvent.KEYCODE_BACK || event.getKeyCode() == KeyEvent.KEYCODE_APP_SWITCH || event.getKeyCode() == KeyEvent.KEYCODE_HOME)) {
             Utilities.showToast(getString(R.string.message_is_flying), this);
             return true;
         }
-        if(isArmed && (event.getKeyCode() == KeyEvent.KEYCODE_BACK || event.getKeyCode() == KeyEvent.KEYCODE_APP_SWITCH || event.getKeyCode() == KeyEvent.KEYCODE_HOME)){
+        if (isArmed && (event.getKeyCode() == KeyEvent.KEYCODE_BACK || event.getKeyCode() == KeyEvent.KEYCODE_APP_SWITCH || event.getKeyCode() == KeyEvent.KEYCODE_HOME)) {
             Utilities.showToast("El Dron está armado, desarmalo antes de salir", this);
             return true;
         }
@@ -477,7 +478,7 @@ public class RemoteActivity extends BaseActivity {
                     return true;
             }
         exitSensor();
-
+        butt_connect_bt.setBackgroundResource(R.drawable.custom_bt_button);
         return super.dispatchKeyEvent(event);
     }
 
